@@ -25,14 +25,18 @@ img{
 }
 
 .btn{
-    display: flex;
-    align-self: center;
-    width: 120px;
-    height: 60px;
+    width: 150px;
+    height: 65px;
 }
 
 .btn:hover{
     background-color: rgba(62, 180, 137, 0.2)
+}
+
+.second-btn{
+    width: 150px;
+    height: 65px;
+    font-size: 14px
 }
 
 hr{
